@@ -20,6 +20,7 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.1",
     "@electron-toolkit/utils": "^3.0.0",
+    "jest": "^29.7.0",
     "pg": "^8.13.1",
     "react-router-dom": "^7.1.3"
   },
